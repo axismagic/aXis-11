@@ -6,13 +6,13 @@
 //  Copyright (c) 2013 Matthew Faluotico. All rights reserved.
 //
 
-#import "aXisSecondViewController.h"
+#import "SavedViewController.h"
 
-@interface aXisSecondViewController ()
+@interface SavedViewController ()
 
 @end
 
-@implementation aXisSecondViewController
+@implementation SavedViewController
 
 - (void)viewDidLoad
 {

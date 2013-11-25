@@ -1,5 +1,5 @@
 //
-//  aXisAppDelegate.h
+//  aXisFirstViewController.h
 //  aXis
 //
 //  Created by Matthew Faluotico on 9/9/13.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface aXisAppDelegate : UIResponder <UIApplicationDelegate>
-
-@property (strong, nonatomic) UIWindow *window;
+@interface EnterEquationViewController : UIViewController
 
 @end

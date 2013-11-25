@@ -17,12 +17,13 @@
 		FB442DFC17DEA8330056BF00 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FB442DFB17DEA8330056BF00 /* Default@2x.png */; };
 		FB442DFE17DEA8330056BF00 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FB442DFD17DEA8330056BF00 /* Default-568h@2x.png */; };
 		FB442E0117DEA8330056BF00 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FB442DFF17DEA8330056BF00 /* MainStoryboard.storyboard */; };
-		FB442E0417DEA8330056BF00 /* aXisFirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FB442E0317DEA8330056BF00 /* aXisFirstViewController.m */; };
+		FB442E0417DEA8330056BF00 /* EnterEquationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FB442E0317DEA8330056BF00 /* EnterEquationViewController.m */; };
 		FB442E0617DEA8330056BF00 /* first.png in Resources */ = {isa = PBXBuildFile; fileRef = FB442E0517DEA8330056BF00 /* first.png */; };
 		FB442E0817DEA8330056BF00 /* first@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FB442E0717DEA8330056BF00 /* first@2x.png */; };
-		FB442E0B17DEA8330056BF00 /* aXisSecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FB442E0A17DEA8330056BF00 /* aXisSecondViewController.m */; };
+		FB442E0B17DEA8330056BF00 /* SavedViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FB442E0A17DEA8330056BF00 /* SavedViewController.m */; };
 		FB442E0D17DEA8330056BF00 /* second.png in Resources */ = {isa = PBXBuildFile; fileRef = FB442E0C17DEA8330056BF00 /* second.png */; };
 		FB442E0F17DEA8330056BF00 /* second@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FB442E0E17DEA8330056BF00 /* second@2x.png */; };
+		FB442E1C17DEAC700056BF00 /* Equation.m in Sources */ = {isa = PBXBuildFile; fileRef = FB442E1B17DEAC700056BF00 /* Equation.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,14 +41,16 @@
 		FB442DFB17DEA8330056BF00 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
 		FB442DFD17DEA8330056BF00 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		FB442E0017DEA8330056BF00 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		FB442E0217DEA8330056BF00 /* aXisFirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = aXisFirstViewController.h; sourceTree = "<group>"; };
-		FB442E0317DEA8330056BF00 /* aXisFirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = aXisFirstViewController.m; sourceTree = "<group>"; };
+		FB442E0217DEA8330056BF00 /* EnterEquationViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = EnterEquationViewController.h; sourceTree = "<group>"; };
+		FB442E0317DEA8330056BF00 /* EnterEquationViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EnterEquationViewController.m; sourceTree = "<group>"; };
 		FB442E0517DEA8330056BF00 /* first.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = first.png; sourceTree = "<group>"; };
 		FB442E0717DEA8330056BF00 /* first@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "first@2x.png"; sourceTree = "<group>"; };
-		FB442E0917DEA8330056BF00 /* aXisSecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = aXisSecondViewController.h; sourceTree = "<group>"; };
-		FB442E0A17DEA8330056BF00 /* aXisSecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = aXisSecondViewController.m; sourceTree = "<group>"; };
+		FB442E0917DEA8330056BF00 /* SavedViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SavedViewController.h; sourceTree = "<group>"; };
+		FB442E0A17DEA8330056BF00 /* SavedViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SavedViewController.m; sourceTree = "<group>"; };
 		FB442E0C17DEA8330056BF00 /* second.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = second.png; sourceTree = "<group>"; };
 		FB442E0E17DEA8330056BF00 /* second@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "second@2x.png"; sourceTree = "<group>"; };
+		FB442E1A17DEAC700056BF00 /* Equation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Equation.h; sourceTree = "<group>"; };
+		FB442E1B17DEAC700056BF00 /* Equation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Equation.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,17 +97,12 @@
 		FB442DED17DEA8330056BF00 /* aXis */ = {
 			isa = PBXGroup;
 			children = (
-				FB442DF617DEA8330056BF00 /* aXisAppDelegate.h */,
-				FB442DF717DEA8330056BF00 /* aXisAppDelegate.m */,
 				FB442DFF17DEA8330056BF00 /* MainStoryboard.storyboard */,
-				FB442E0217DEA8330056BF00 /* aXisFirstViewController.h */,
-				FB442E0317DEA8330056BF00 /* aXisFirstViewController.m */,
-				FB442E0517DEA8330056BF00 /* first.png */,
-				FB442E0717DEA8330056BF00 /* first@2x.png */,
-				FB442E0917DEA8330056BF00 /* aXisSecondViewController.h */,
-				FB442E0A17DEA8330056BF00 /* aXisSecondViewController.m */,
-				FB442E0C17DEA8330056BF00 /* second.png */,
-				FB442E0E17DEA8330056BF00 /* second@2x.png */,
+				FB442E1917DEA88A0056BF00 /* Delegate */,
+				FB442E1817DEA8800056BF00 /* img */,
+				FB442E1717DEA8760056BF00 /* Equation */,
+				FB442E1517DEA8590056BF00 /* Enter Equation */,
+				FB442E1617DEA8650056BF00 /* Saved Equations */,
 				FB442DEE17DEA8330056BF00 /* Supporting Files */,
 			);
 			path = aXis;
@@ -122,6 +120,53 @@
 				FB442DFD17DEA8330056BF00 /* Default-568h@2x.png */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		FB442E1517DEA8590056BF00 /* Enter Equation */ = {
+			isa = PBXGroup;
+			children = (
+				FB442E0217DEA8330056BF00 /* EnterEquationViewController.h */,
+				FB442E0317DEA8330056BF00 /* EnterEquationViewController.m */,
+			);
+			name = "Enter Equation";
+			sourceTree = "<group>";
+		};
+		FB442E1617DEA8650056BF00 /* Saved Equations */ = {
+			isa = PBXGroup;
+			children = (
+				FB442E0917DEA8330056BF00 /* SavedViewController.h */,
+				FB442E0A17DEA8330056BF00 /* SavedViewController.m */,
+			);
+			name = "Saved Equations";
+			sourceTree = "<group>";
+		};
+		FB442E1717DEA8760056BF00 /* Equation */ = {
+			isa = PBXGroup;
+			children = (
+				FB442E1A17DEAC700056BF00 /* Equation.h */,
+				FB442E1B17DEAC700056BF00 /* Equation.m */,
+			);
+			name = Equation;
+			sourceTree = "<group>";
+		};
+		FB442E1817DEA8800056BF00 /* img */ = {
+			isa = PBXGroup;
+			children = (
+				FB442E0517DEA8330056BF00 /* first.png */,
+				FB442E0717DEA8330056BF00 /* first@2x.png */,
+				FB442E0C17DEA8330056BF00 /* second.png */,
+				FB442E0E17DEA8330056BF00 /* second@2x.png */,
+			);
+			name = img;
+			sourceTree = "<group>";
+		};
+		FB442E1917DEA88A0056BF00 /* Delegate */ = {
+			isa = PBXGroup;
+			children = (
+				FB442DF617DEA8330056BF00 /* aXisAppDelegate.h */,
+				FB442DF717DEA8330056BF00 /* aXisAppDelegate.m */,
+			);
+			name = Delegate;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -197,8 +242,9 @@
 			files = (
 				FB442DF417DEA8330056BF00 /* main.m in Sources */,
 				FB442DF817DEA8330056BF00 /* aXisAppDelegate.m in Sources */,
-				FB442E0417DEA8330056BF00 /* aXisFirstViewController.m in Sources */,
-				FB442E0B17DEA8330056BF00 /* aXisSecondViewController.m in Sources */,
+				FB442E0417DEA8330056BF00 /* EnterEquationViewController.m in Sources */,
+				FB442E0B17DEA8330056BF00 /* SavedViewController.m in Sources */,
+				FB442E1C17DEAC700056BF00 /* Equation.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

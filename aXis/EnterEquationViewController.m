@@ -6,13 +6,13 @@
 //  Copyright (c) 2013 Matthew Faluotico. All rights reserved.
 //
 
-#import "aXisFirstViewController.h"
+#import "EnterEquationViewController.h"
 
-@interface aXisFirstViewController ()
+@interface EnterEquationViewController ()
 
 @end
 
-@implementation aXisFirstViewController
+@implementation EnterEquationViewController
 
 - (void)viewDidLoad
 {

@@ -1,5 +1,5 @@
 //
-//  aXisFirstViewController.h
+//  aXisSecondViewController.h
 //  aXis
 //
 //  Created by Matthew Faluotico on 9/9/13.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface aXisFirstViewController : UIViewController
+@interface SavedViewController : UIViewController
 
 @end
